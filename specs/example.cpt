@@ -1,0 +1,40 @@
+# Dil seçimi yapılır
+* Elementine tıkla "dilSecimiGit"
+
+# Anasayfanın geldiği kontrol edilir
+* "checkAnasayfa" anahtarlı elementin görünürlüğünü kontrol et
+
+# Hesabım menüsünün geldiği kontrol edilir
+* "checkHesabim" anahtarlı elementin görünürlüğünü kontrol et
+
+# Defacto uygulamasına <eposta> ile giriş yapılır
+* "eposta" li elementi bul ve <eposta> değerini yaz
+* "sifre" li elementi bul ve "*Seref123" değerini yaz
+* Elementine tıkla "girisYap"
+
+# Giriş yapıldığı kontrol edilir
+* "3" saniye bekle
+* "checkLogin" elementinin "Hoşgeldin, Seref Kilic" content-desc içerdiği kontrol edilir
+
+# Tişört katalog ekranın geldiği kontrol edilir
+* "3" saniye bekle
+* "tisort" elementinin "Tişört" content-desc içerdiği kontrol edilir
+
+# Rasgele bir ürün seçilir
+* "2" kez asagi kaydır
+* "urunler" li elementi rasgele sec
+
+# Rasgele beden seçilir
+* "bedenler" li elementi rasgele sec
+
+# Ürün detay ekranının açıldığı kontrol edilir
+* "sepeteEkle" anahtarlı elementin görünürlüğünü kontrol et
+
+# Ürünün sepete eklendiği kontrol edilir
+* "sepeteEklendiMesaj" elementinin "Ürün sepetinize eklendi." content-desc içerdiği kontrol edilir
+ "Ürün sepetinize eklendi." değerini sayfa üzerinde olup olmadığını kontrol et
+
+# Sepete gidilip ürünün olduğu kontrol edilir
+* "sepeteGit" Elementin kaybolması beklenir.
+* Elementine tıkla "sepet"
+* "checkSepet" anahtarlı elementin görünürlüğünü kontrol et

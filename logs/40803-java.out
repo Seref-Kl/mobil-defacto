@@ -1,0 +1,257 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: A number (20) of logging calls during the initialization phase have been intercepted and are
+SLF4J: now being replayed. These are subject to the filtering rules of the underlying logging system.
+SLF4J: See also http://www.slf4j.org/codes.html#replay
+{"logLevel":"debug","message":"gauge-java took 435milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 435"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 56153"}
+{"logLevel":"info","message":"Listening on port:56153"}
+2024-05-24 09:44:40 INFO  Reflections:219 scan --> Reflections took 669 ms to scan 144 urls, producing 5039 keys and 28820 values
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.kptUyg' and 'com.mobildefacto.StepImpl.kptUyg'"}
+{"logLevel":"debug","message":"Found Uygulamayı kapat in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.checkContentDescByKey' and 'com.mobildefacto.StepImpl.checkContentDescByKey'"}
+{"logLevel":"debug","message":"Found {} elementinin {} içerdiği kontrol edilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.saveTextByKey' and 'com.mobildefacto.StepImpl.saveTextByKey'"}
+{"logLevel":"debug","message":"Found {} li elementi bul ve değerini {} olarak sakla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.saveTextByKey' and 'com.mobildefacto.StepImpl.saveTextByKey'"}
+{"logLevel":"debug","message":"Found Find element by {} and save text {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.clickLastElementFromList' and 'com.mobildefacto.StepImpl.clickLastElementFromList'"}
+{"logLevel":"debug","message":"Found {} listedeki son elemente tiklanir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.getPageSourceFindWord' and 'com.mobildefacto.StepImpl.getPageSourceFindWord'"}
+{"logLevel":"debug","message":"Found {} değerini sayfa üzerinde olup olmadığını kontrol et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.pressEnterKey' and 'com.mobildefacto.StepImpl.pressEnterKey'"}
+{"logLevel":"debug","message":"Found Enter'a tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.pressEnterKey' and 'com.mobildefacto.StepImpl.pressEnterKey'"}
+{"logLevel":"debug","message":"Found Click enter in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.swipeDown' and 'com.mobildefacto.StepImpl.swipeDown'"}
+{"logLevel":"debug","message":"Found {} kez asagi kaydır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.setValueRandomAccordingly' and 'com.mobildefacto.StepImpl.setValueRandomAccordingly'"}
+{"logLevel":"debug","message":"Found {} li elementi bul ve {} alanina rastgele deger olustur in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.existElement' and 'com.mobildefacto.StepImpl.existElement'"}
+{"logLevel":"debug","message":"Found {} elementinin görünürlüğü kontrol edilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.compareSavedValueWithElementText' and 'com.mobildefacto.StepImpl.compareSavedValueWithElementText'"}
+{"logLevel":"debug","message":"Found {} kayıtlı değer ile {} elementinin değerini karşılaştır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.checkContentDescBys' and 'com.mobildefacto.StepImpl.checkContentDescBys'"}
+{"logLevel":"debug","message":"Found {} elementinin {} content-desc içerdiği kontrol edilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.clickDene' and 'com.mobildefacto.StepImpl.clickDene'"}
+{"logLevel":"debug","message":"Found {} elementine farklı tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.swipeDownFindElement' and 'com.mobildefacto.StepImpl.swipeDownFindElement'"}
+{"logLevel":"debug","message":"Found {} element bulunasiya kadar asagi kaydır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.findElementsAndClickRandomly' and 'com.mobildefacto.StepImpl.findElementsAndClickRandomly'"}
+{"logLevel":"debug","message":"Found {} li elementi bul ve listeden rastgele sec in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.checkElementVisibilityByKey' and 'com.mobildefacto.StepImpl.checkElementVisibilityByKey'"}
+{"logLevel":"debug","message":"Found {} anahtarlı elementin görünürlüğünü kontrol et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.waitDisappear' and 'com.mobildefacto.StepImpl.waitDisappear'"}
+{"logLevel":"debug","message":"Found {} Elementin kaybolması beklenir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.refreshApp' and 'com.mobildefacto.StepImpl.refreshApp'"}
+{"logLevel":"debug","message":"Found Uygulamayı yenile in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.displayElementClick' and 'com.mobildefacto.StepImpl.displayElementClick'"}
+{"logLevel":"debug","message":"Found {} Elementi varsa tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.equalsIgnoreSpaceSaveTextByKey' and 'com.mobildefacto.StepImpl.equalsIgnoreSpaceSaveTextByKey'"}
+{"logLevel":"debug","message":"Found {} li elementi bul ve değerini {} boşlukları silip saklanan değer ile karşılaştır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.restartApp' and 'com.mobildefacto.StepImpl.restartApp'"}
+{"logLevel":"debug","message":"Found Uygulamayı yeniden başlat in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.hideKeyboard' and 'com.mobildefacto.StepImpl.hideKeyboard'"}
+{"logLevel":"debug","message":"Found Klavyeyi kapat in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.hideKeyboard' and 'com.mobildefacto.StepImpl.hideKeyboard'"}
+{"logLevel":"debug","message":"Found Hide keyboard in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.swipeUp' and 'com.mobildefacto.StepImpl.swipeUp'"}
+{"logLevel":"debug","message":"Found {} kez yukari kaydır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.assertTextInElement' and 'com.mobildefacto.StepImpl.assertTextInElement'"}
+{"logLevel":"debug","message":"Found {} anahtarlı elementte {} metnini doğrula in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.findByTextWithSwipe' and 'com.mobildefacto.StepImpl.findByTextWithSwipe'"}
+{"logLevel":"debug","message":"Found {} li text bulana kadar swipe et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.findByTextWithSwipe' and 'com.mobildefacto.StepImpl.findByTextWithSwipe'"}
+{"logLevel":"debug","message":"Found Find text by {}  swipe  in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.sendKeysByKeyNotClear' and 'com.mobildefacto.StepImpl.sendKeysByKeyNotClear'"}
+{"logLevel":"debug","message":"Found {} textini {} elemente yaz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.sendKeysByKeyNotClear' and 'com.mobildefacto.StepImpl.sendKeysByKeyNotClear'"}
+{"logLevel":"debug","message":"Found Find element by {} and send keys {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.waitBySecond' and 'com.mobildefacto.StepImpl.waitBySecond'"}
+{"logLevel":"debug","message":"Found {} saniye bekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.waitBySecond' and 'com.mobildefacto.StepImpl.waitBySecond'"}
+{"logLevel":"debug","message":"Found Wait {} seconds in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.clickByKey' and 'com.mobildefacto.StepImpl.clickByKey'"}
+{"logLevel":"debug","message":"Found Elementine tıkla {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.clickByKey' and 'com.mobildefacto.StepImpl.clickByKey'"}
+{"logLevel":"debug","message":"Found Click element by {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.setValueOrSendKeys' and 'com.mobildefacto.StepImpl.setValueOrSendKeys'"}
+{"logLevel":"debug","message":"Found {} li elementi bul ve {} değerini yaz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.setValueOrSendKeys' and 'com.mobildefacto.StepImpl.setValueOrSendKeys'"}
+{"logLevel":"debug","message":"Found Find element by {} and set value or send keys {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.rightSwipe' and 'com.mobildefacto.StepImpl.rightSwipe'"}
+{"logLevel":"debug","message":"Found Saga kaydır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.chooseRandomListProduct' and 'com.mobildefacto.StepImpl.chooseRandomListProduct'"}
+{"logLevel":"debug","message":"Found {} elementli listeden kontrol ederek rasgele sec in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.equalsSaveTextByKey' and 'com.mobildefacto.StepImpl.equalsSaveTextByKey'"}
+{"logLevel":"debug","message":"Found {} li elementi bul ve değerini {} saklanan değer ile karşılaştır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.equalsSaveTextByKey' and 'com.mobildefacto.StepImpl.equalsSaveTextByKey'"}
+{"logLevel":"debug","message":"Found Find element by {} and compare saved key {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.elementValue' and 'com.mobildefacto.StepImpl.elementValue'"}
+{"logLevel":"debug","message":"Found {} elementin value degeri ile {} icerigi ayni mi in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.chooseRandomProduct' and 'com.mobildefacto.StepImpl.chooseRandomProduct'"}
+{"logLevel":"debug","message":"Found {} li elementi rasgele sec in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.clearKey' and 'com.mobildefacto.StepImpl.clearKey'"}
+{"logLevel":"debug","message":"Found {} li elementi bul ve temizle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.clearKey' and 'com.mobildefacto.StepImpl.clearKey'"}
+{"logLevel":"debug","message":"Found Find element by {} and clear in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.findByKeyWithSwipe' and 'com.mobildefacto.StepImpl.findByKeyWithSwipe'"}
+{"logLevel":"debug","message":"Found {} li elementi bulana kadar swipe et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.findByKeyWithSwipe' and 'com.mobildefacto.StepImpl.findByKeyWithSwipe'"}
+{"logLevel":"debug","message":"Found Find element by {}  swipe  in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.checkTextByKey' and 'com.mobildefacto.StepImpl.checkTextByKey'"}
+{"logLevel":"debug","message":"Found {} elementinin {} textini içerdiği kontrol edilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.clearAndSendKeys' and 'com.mobildefacto.StepImpl.clearAndSendKeys'"}
+{"logLevel":"debug","message":"Found {} elementinin icerigini sil ve {} yazisini gonder in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.mobildefacto.StepImpl.validateWithAssertFalse' and 'com.mobildefacto.StepImpl.validateWithAssertFalse'"}
+{"logLevel":"debug","message":"Found {} değerinin sayfa üzerinde olmadigini kontrol et in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\t{} elementinin {} textini içerdiği kontrol edilir : public void checkTextByKey(String key, String text)"}
+{"logLevel":"debug","message":"\t{} kez yukari kaydır : public void swipeUp(int kez)"}
+{"logLevel":"debug","message":"\tFind element by {} and save text {} : public void saveTextByKey(String key, String saveKey)"}
+{"logLevel":"debug","message":"\t{} kez asagi kaydır : public void swipeDown(int kez)"}
+{"logLevel":"debug","message":"\t{} Elementi varsa tıkla : public void displayElementClick(String key)"}
+{"logLevel":"debug","message":"\t{} anahtarlı elementte {} metnini doğrula : public void assertTextInElement(String key, String expectedText)"}
+{"logLevel":"debug","message":"\t{} elementinin {} content-desc içerdiği kontrol edilir : public void checkContentDescBys(String key, String text)"}
+{"logLevel":"debug","message":"\t{} listedeki son elemente tiklanir : public void clickLastElementFromList(String key)"}
+{"logLevel":"debug","message":"\tSaga kaydır : public void rightSwipe()"}
+{"logLevel":"debug","message":"\t{} değerinin sayfa üzerinde olmadigini kontrol et : public void validateWithAssertFalse(String text)"}
+{"logLevel":"debug","message":"\tWait {} seconds : public void waitBySecond(int seconds)"}
+{"logLevel":"debug","message":"\t{} li elementi bul ve {} değerini yaz : public void setValueOrSendKeys(String key, String text)"}
+{"logLevel":"debug","message":"\t{} elementinin {} içerdiği kontrol edilir : public void checkContentDescByKey(String key, String text)"}
+{"logLevel":"debug","message":"\t{} li elementi bul ve değerini {} olarak sakla : public void saveTextByKey(String key, String saveKey)"}
+{"logLevel":"debug","message":"\tFind element by {} and send keys {} : public void sendKeysByKeyNotClear(String t, String k)"}
+{"logLevel":"debug","message":"\t{} li elementi bul ve {} alanina rastgele deger olustur : public void setValueRandomAccordingly(String key, String whichField)"}
+{"logLevel":"debug","message":"\tClick enter : public static void pressEnterKey()"}
+{"logLevel":"debug","message":"\t{} element bulunasiya kadar asagi kaydır : public void swipeDownFindElement(String key)"}
+{"logLevel":"debug","message":"\tUygulamayı kapat : public void kptUyg()"}
+{"logLevel":"debug","message":"\t{} kayıtlı değer ile {} elementinin değerini karşılaştır : public void compareSavedValueWithElementText(String saveKey, String key)"}
+{"logLevel":"debug","message":"\t{} elementine farklı tıkla : public void clickDene(String key)"}
+{"logLevel":"debug","message":"\tEnter'a tıkla : public static void pressEnterKey()"}
+{"logLevel":"debug","message":"\tFind element by {} and clear : public void clearKey(String key)"}
+{"logLevel":"debug","message":"\tFind element by {} and set value or send keys {} : public void setValueOrSendKeys(String key, String text)"}
+{"logLevel":"debug","message":"\t{} li elementi bul ve değerini {} boşlukları silip saklanan değer ile karşılaştır : public void equalsIgnoreSpaceSaveTextByKey(String key, String saveKey)"}
+{"logLevel":"debug","message":"\t{} li elementi rasgele sec : public void chooseRandomProduct(String key)"}
+{"logLevel":"debug","message":"\t{} değerini sayfa üzerinde olup olmadığını kontrol et : public void getPageSourceFindWord(String text)"}
+{"logLevel":"debug","message":"\tKlavyeyi kapat : public void hideKeyboard()"}
+{"logLevel":"debug","message":"\tUygulamayı yenile : public void refreshApp()"}
+{"logLevel":"debug","message":"\t{} Elementin kaybolması beklenir. : public Boolean waitDisappear(String key)"}
+{"logLevel":"debug","message":"\t{} li text bulana kadar swipe et : public void findByTextWithSwipe(String text)"}
+{"logLevel":"debug","message":"\t{} elementinin görünürlüğü kontrol edilir : public void existElement(String key)"}
+{"logLevel":"debug","message":"\t{} elementinin icerigini sil ve {} yazisini gonder : public void clearAndSendKeys(String key, String text)"}
+{"logLevel":"debug","message":"\t{} elementin value degeri ile {} icerigi ayni mi : public void elementValue(String element, String text)"}
+{"logLevel":"debug","message":"\t{} anahtarlı elementin görünürlüğünü kontrol et : public boolean checkElementVisibilityByKey(String key)"}
+{"logLevel":"debug","message":"\t{} saniye bekle : public void waitBySecond(int seconds)"}
+{"logLevel":"debug","message":"\t{} li elementi bul ve temizle : public void clearKey(String key)"}
+{"logLevel":"debug","message":"\tFind element by {}  swipe  : public void findByKeyWithSwipe(String key)"}
+{"logLevel":"debug","message":"\tFind element by {} and compare saved key {} : public void equalsSaveTextByKey(String key, String saveKey)"}
+{"logLevel":"debug","message":"\tUygulamayı yeniden başlat : public void restartApp()"}
+{"logLevel":"debug","message":"\t{} li elementi bul ve listeden rastgele sec : public void findElementsAndClickRandomly(String key)"}
+{"logLevel":"debug","message":"\t{} li elementi bulana kadar swipe et : public void findByKeyWithSwipe(String key)"}
+{"logLevel":"debug","message":"\t{} elementli listeden kontrol ederek rasgele sec : public void chooseRandomListProduct(String key)"}
+{"logLevel":"debug","message":"\tFind text by {}  swipe  : public void findByTextWithSwipe(String text)"}
+{"logLevel":"debug","message":"\tClick element by {} : public void clickByKey(String key)"}
+{"logLevel":"debug","message":"\tElementine tıkla {} : public void clickByKey(String key)"}
+{"logLevel":"debug","message":"\t{} textini {} elemente yaz : public void sendKeysByKeyNotClear(String t, String k)"}
+{"logLevel":"debug","message":"\tHide keyboard : public void hideKeyboard()"}
+{"logLevel":"debug","message":"\t{} li elementi bul ve değerini {} saklanan değer ile karşılaştır : public void equalsSaveTextByKey(String key, String saveKey)"}
+2024-05-24 09:44:41 INFO  Reflections:219 scan --> Reflections took 329 ms to scan 144 urls, producing 4955 keys and 20188 values
+2024-05-24 09:44:41 INFO  HookImpl:45 beforeScenario --> ************************************  BeforeScenario  ************************************
+2024-05-24 09:44:41 INFO  HookImpl:46 beforeScenario --> SCENARIO NAME: Case Study
+2024-05-24 09:44:41 INFO  HookImpl:47 beforeScenario --> []
+2024-05-24 09:44:41 INFO  HookImpl:53 beforeScenario --> Local cihazda Android ortamında test ayağa kalkacak
+May 24, 2024 9:44:48 AM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'Elementine tıkla {}' using 'class com.mobildefacto.StepImpl.clickByKey"}
+2024-05-24 09:44:55 INFO  StepImpl:488 clickByKey --> dilSecimiGitelemente tıkladı
+{"logLevel":"debug","message":"Executing 'Elementine tıkla {}' using 'class com.mobildefacto.StepImpl.clickByKey"}
+2024-05-24 09:45:05 INFO  StepImpl:488 clickByKey --> kadinelemente tıkladı
+{"logLevel":"debug","message":"Executing '{} anahtarlı elementin görünürlüğünü kontrol et' using 'class com.mobildefacto.StepImpl.checkElementVisibilityByKey"}
+2024-05-24 09:45:05 INFO  StepImpl:737 checkElementVisibilityByKey --> checkAnasayfa anahtarlı element görünür.
+{"logLevel":"debug","message":"Executing 'Elementine tıkla {}' using 'class com.mobildefacto.StepImpl.clickByKey"}
+2024-05-24 09:45:07 INFO  StepImpl:488 clickByKey --> hesabimelemente tıkladı
+{"logLevel":"debug","message":"Executing '{} anahtarlı elementin görünürlüğünü kontrol et' using 'class com.mobildefacto.StepImpl.checkElementVisibilityByKey"}
+2024-05-24 09:45:09 INFO  StepImpl:737 checkElementVisibilityByKey --> checkHesabim anahtarlı element görünür.
+{"logLevel":"debug","message":"Executing 'Elementine tıkla {}' using 'class com.mobildefacto.StepImpl.clickByKey"}
+2024-05-24 09:45:10 INFO  StepImpl:488 clickByKey --> girisYapelemente tıkladı
+{"logLevel":"debug","message":"Executing '{} li elementi bul ve {} değerini yaz' using 'class com.mobildefacto.StepImpl.setValueOrSendKeys"}
+2024-05-24 09:45:12 INFO  StepImpl:530 setValueOrSendKeys --> sendKeysByKeyAction ile yazıldı: serefkilic.bm1@gmail.com
+{"logLevel":"debug","message":"Executing '{} li elementi bul ve {} değerini yaz' using 'class com.mobildefacto.StepImpl.setValueOrSendKeys"}
+2024-05-24 09:45:13 INFO  StepImpl:530 setValueOrSendKeys --> sendKeysByKeyAction ile yazıldı: *Seref123
+{"logLevel":"debug","message":"Executing 'Elementine tıkla {}' using 'class com.mobildefacto.StepImpl.clickByKey"}
+2024-05-24 09:45:15 INFO  StepImpl:488 clickByKey --> girisYapelemente tıkladı
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.mobildefacto.StepImpl.waitBySecond"}
+{"logLevel":"debug","message":"Executing '{} elementinin {} content-desc içerdiği kontrol edilir' using 'class com.mobildefacto.StepImpl.checkContentDescBys"}
+{"logLevel":"debug","message":"Executing '{} Elementi varsa tıkla' using 'class com.mobildefacto.StepImpl.displayElementClick"}
+2024-05-24 09:45:22 INFO  StepImpl:504 displayElementClick --> tiklamanin 0. saniyesinde closeButtonelementine tıklandı
+{"logLevel":"debug","message":"Executing 'Elementine tıkla {}' using 'class com.mobildefacto.StepImpl.clickByKey"}
+2024-05-24 09:45:23 INFO  StepImpl:488 clickByKey --> katagorilerelemente tıkladı
+{"logLevel":"debug","message":"Executing 'Elementine tıkla {}' using 'class com.mobildefacto.StepImpl.clickByKey"}
+2024-05-24 09:45:23 INFO  StepImpl:488 clickByKey --> giyimelemente tıkladı
+{"logLevel":"debug","message":"Executing 'Elementine tıkla {}' using 'class com.mobildefacto.StepImpl.clickByKey"}
+2024-05-24 09:45:24 INFO  StepImpl:488 clickByKey --> tisortelemente tıkladı
+{"logLevel":"debug","message":"Executing '{} kez asagi kaydır' using 'class com.mobildefacto.StepImpl.swipeDown"}
+1440  3036
+2024-05-24 09:45:25 INFO  StepImpl:851 swipeDown --> asagi swipe yapıldı
+1440  3036
+2024-05-24 09:45:27 INFO  StepImpl:851 swipeDown --> asagi swipe yapıldı
+{"logLevel":"debug","message":"Executing '{} li elementi rasgele sec' using 'class com.mobildefacto.StepImpl.chooseRandomProduct"}
+{"logLevel":"debug","message":"Executing '{} anahtarlı elementin görünürlüğünü kontrol et' using 'class com.mobildefacto.StepImpl.checkElementVisibilityByKey"}
+2024-05-24 09:45:30 INFO  StepImpl:737 checkElementVisibilityByKey --> sepeteEkle anahtarlı element görünür.
+{"logLevel":"debug","message":"Executing 'Elementine tıkla {}' using 'class com.mobildefacto.StepImpl.clickByKey"}
+2024-05-24 09:45:30 INFO  StepImpl:488 clickByKey --> sepeteEkleelemente tıkladı
+{"logLevel":"debug","message":"Executing '{} elementli listeden kontrol ederek rasgele sec' using 'class com.mobildefacto.StepImpl.chooseRandomListProduct"}
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.mobildefacto.StepImpl$1@b60fbbf (tried for 7 second(s) with 150 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Serefs-MacBook-Pro.local', ip: '2a02:4e0:2d8a:14ec:9c1:43e6:36d1:fbe3%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.6.4', java.version: '21.0.2'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at com.mobildefacto.StepImpl.findElements(StepImpl.java:54)
+	at com.mobildefacto.StepImpl.findElement(StepImpl.java:92)
+	at com.mobildefacto.StepImpl.findElementByKeyWithoutAssert(StepImpl.java:192)
+	at com.mobildefacto.StepImpl.chooseRandomListProduct(StepImpl.java:974)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:30)
+	at com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:66)
+	at com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:59)
+	at com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:41)
+	at com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:14)
+	at com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:33)
+	at com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:19)
+	at com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:44)
+	at com.thoughtworks.gauge.RunnerServiceHandler.lambda$executeStep$7(RunnerServiceHandler.java:166)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+{"logLevel":"debug","message":"Executing '{} elementinin {} content-desc içerdiği kontrol edilir' using 'class com.mobildefacto.StepImpl.checkContentDescBys"}
+2024-05-24 09:45:51 INFO  HookImpl:121 afterStep --> java.lang.AssertionError: key = sepeteEklendiMesaj by = By.xpath: //android.view.View[@content-desc="Ürün sepetinize eklendi."] Element not found 
+2024-05-24 09:45:51 INFO  HookImpl:122 afterStep --> java.lang.AssertionError: key = sepeteEklendiMesaj by = By.xpath: //android.view.View[@content-desc="Ürün sepetinize eklendi."] Element not found 
+	at com.mobildefacto.StepImpl.findElementByKey(StepImpl.java:207)
+	at com.mobildefacto.StepImpl.checkContentDescBys(StepImpl.java:752)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:30)
+	at com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:66)
+	at com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:59)
+	at com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:41)
+	at com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:14)
+	at com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:33)
+	at com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:19)
+	at com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:44)
+	at com.thoughtworks.gauge.RunnerServiceHandler.lambda$executeStep$7(RunnerServiceHandler.java:166)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+2024-05-24 09:45:52 INFO  HookImpl:114 afterScenario --> *************************************************************************
+
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}

@@ -1,0 +1,149 @@
+[
+  {
+    "key": "dilSecimiGit",
+    "androidValue": "//android.widget.Button[@content-desc=\"Git\"]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "kadin",
+    "androidValue": "//android.widget.ImageView[@content-desc=\"Kadın\"]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "checkAnasayfa",
+    "androidValue": "//android.view.View[@content-desc=\"Kadın\nSekme 1 / 6\"]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "hesabim",
+    "androidValue": "//android.widget.ImageView[@content-desc=\"Hesabım\nSekme 5 / 5\"]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "checkHesabim",
+    "androidValue": "//android.widget.Button[@content-desc='Giriş Yap']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "girisYap",
+    "androidValue": "//android.widget.Button[@content-desc='Giriş Yap']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "eposta",
+    "androidValue": "(//android.view.View[@content-desc=\"E-POSTA / TELEFON İLE GİRİŞ YAP\"]/following-sibling::android.widget.EditText)[1]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "sifre",
+    "androidValue": "(//android.view.View[@content-desc=\"E-POSTA / TELEFON İLE GİRİŞ YAP\"]/following-sibling::android.widget.EditText)[2]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "checkLogin",
+    "androidValue": "//android.view.View[@content-desc=\"Hoşgeldin, Seref Kilic\"]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "katagoriler",
+    "androidValue": "//android.widget.ImageView[@content-desc=\"Kategoriler\nSekme 2 / 5\"]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "giyim",
+    "androidValue": "//android.widget.ImageView[@content-desc=\"Giyim\"]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "tisort",
+    "androidValue": "//android.widget.Button[@content-desc=\"Tişört\"]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "urunler",
+    "androidValue": "//android.view.View[contains(@content-desc,\"Tişört\")]/android.view.View[1]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "closeButton",
+    "androidValue": "//android.widget.Image[@resource-id=\"qa-closeButton\"]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "sepeteEkle",
+    "androidValue": "//android.widget.Button[@content-desc=\"Sepete Ekle\"]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "sBeden",
+    "androidValue": "//android.view.View[@content-desc=\"S\"]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "bedenler",
+    "androidValue": "//android.view.View[@content-desc=\"S\"]/parent::android.view.View/android.view.View",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "sepeteGit",
+    "androidValue": "//android.widget.Button[@content-desc=\"Sepete Git\"]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "sepet",
+    "androidValue": "//android.view.View[@content-desc=\"app_bar_badge_button\"]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "gelinceHaberVer",
+    "androidValue": "//android.widget.Button[@content-desc=\"Gelince Haber Ver\"]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "sepeteEklendiMesaj",
+    "androidValue": "//android.view.View[@content-desc=\"Ürün sepetinize eklendi.\"]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  }
+]

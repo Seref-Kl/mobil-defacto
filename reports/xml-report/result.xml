@@ -1,0 +1,8 @@
+<testsuites>
+	<testsuite id="1" tests="1" failures="0" package="/Users/serefkilic/IdeaProjects/mobil-defacto/specs/example.spec" time="55.063" timestamp="2024-05-24T11:36:54" name="Example Defacto Project" errors="0" hostname="Serefs-MacBook-Pro.local">
+		<properties></properties>
+		<testcase classname="Example Defacto Project" name="Case Study" time="55.063"></testcase>
+		<system-out></system-out>
+		<system-err></system-err>
+	</testsuite>
+</testsuites>
